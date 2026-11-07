@@ -46,5 +46,5 @@ flowchart LR
 ---
 
 <div align="center">
-<sub>Doğuş Üniversitesi · Yazılım Mühendisliği · YM 491/492 Bitirme Projesi</sub>
+<sub>Doğuş Üniversitesi · Yazılım Mühendisliği · YM 491/Araştırma Projesi</sub>
 </div>
